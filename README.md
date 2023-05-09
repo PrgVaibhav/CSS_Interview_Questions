@@ -1,6 +1,11 @@
 # CSS Interview Questions and Answers
 
-We will cover a variety of CSS questions ranging from basic to advanced. Let's get started!
+
+#### Want HTML Questions Visit [Here](https://github.com/PrgVaibhav/HTML_InterviewQuestions)
+#### Want JS Questions Visit [Here](https://github.com/PrgVaibhav/JS_Interview_Questions)
+
+
+> We will cover a variety of CSS questions ranging from basic to advanced. Let's get started!
 
 ## Question 1: What is CSS?
 
